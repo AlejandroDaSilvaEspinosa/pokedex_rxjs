@@ -1,5 +1,5 @@
 {
-  "name": "pokedex rxjs",
+  "name": "pokedexrxjs",
   "scripts": {
     "dev": "webpack serve --progress",
     "start": "webpack serve --mode development",
