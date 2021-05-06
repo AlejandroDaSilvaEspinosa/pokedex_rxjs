@@ -1,0 +1,8 @@
+@font-face
+{
+    font-family: 'Pokemon GB Japan KT';
+  src: url('Pokemon GB Japan KT.eot');
+      url('Pokemon GB Japan KT.eot?#') format('embedded-opentype'),
+      url('Pokemon GB Japan KT.woff') format('woff'),
+      url('Pokemon GB Japan KT.ttf') format('truetype');
+}

@@ -1,0 +1,33 @@
+{
+  "name": "pokedex rxjs",
+  "scripts": {
+    "dev": "webpack serve --progress",
+    "start": "webpack serve --mode development",
+    "build": "webpack",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "rxjs": "^7.0.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.13.16",
+    "@babel/plugin-transform-runtime": "^7.13.15",
+    "@babel/preyarnset-env": "^7.13.15",
+    "@babel/runtime-corejs2": "^7.13.17",
+    "@yarnpkg/pnpify": "^3.0.0-rc.3",
+    "babel-loader": "^8.2.2",
+    "copy-webpack-plugin": "^8.1.1",
+    "css-loader": "^5.2.4",
+    "file-loader": "^6.2.0",
+    "html-webpack-plugin": "^5.3.1",
+    "json-schema": "^0.3.0",
+    "pnp-webpack-plugin": "^1.6.4",
+    "serve": "^11.3.2",
+    "style-loader": "^2.0.0",
+    "ts-loader": "^9.1.1",
+    "typescript": "^4.2.4",
+    "webpack": "^5.35.1",
+    "webpack-cli": "^4.6.0",
+    "webpack-dev-server": "^3.11.2"
+  }
+}

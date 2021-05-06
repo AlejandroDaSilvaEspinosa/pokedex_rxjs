@@ -1,0 +1,8 @@
+@font-face
+{
+    font-family: 'Pokemon Unown GB';
+  src: url('Pokemon Unown GB.eot');
+      url('Pokemon Unown GB.eot?#') format('embedded-opentype'),
+      url('Pokemon Unown GB.woff') format('woff'),
+      url('Pokemon Unown GB.ttf') format('truetype');
+}
